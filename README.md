@@ -14,7 +14,7 @@ cd ~/hdmapping-benchmark
 git clone https://github.com/MapsHD/benchmark-SE3-LIO-to-HDMapping --recursive
 cd benchmark-SE3-LIO-to-HDMapping
 git checkout Bunker-DVI-Dataset-reg-1
-docker build -t se3_lio_noetic .
+docker build -t se3-lio_noetic .
 ```
 
 ## Step 3 (run docker, file 'reg-1.bag' should be in '~/hdmapping-benchmark/data')

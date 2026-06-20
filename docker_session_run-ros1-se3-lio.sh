@@ -1,6 +1,6 @@
 #!/bin/bash
 
-IMAGE_NAME='se3_lio_noetic'
+IMAGE_NAME='se3-lio_noetic'
 TMUX_SESSION='ros1_session'
 
 DATASET_CONTAINER_PATH='/ros_ws/dataset/recorded-se3-lio.bag'
